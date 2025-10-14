@@ -1,6 +1,6 @@
 'use client';
 import React, { useState } from 'react';
-import { motion } from 'framer-motion';
+import { motion , AnimatePresence } from 'framer-motion';
 
 export default function GameHUD({
   stage, setStage, japCount, flowers, score, doJap, offerFlower, setBgMusicOn, resetGame
