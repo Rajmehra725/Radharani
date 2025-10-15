@@ -213,7 +213,7 @@ export default function VrindavanHome() {
           {/* Radha Rani Reveal */}
           <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 pt-24">
             <motion.img
-              src="/images/radha-krishna-hero.gif"
+              src="/images/radha.jpeg"
               alt="Radha Krishna"
               className="w-64 h-64 mx-auto rounded-full shadow-2xl border-4 border-[#ffd6ea]"
               animate={{ scale: [1, 1.03, 1] }}
