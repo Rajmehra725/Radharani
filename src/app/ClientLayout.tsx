@@ -13,6 +13,7 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
   return (
     <>
       {!hideLayout && <Header />} {/* Header tabhi dikhe jab lock page na ho */}
+     
       {children}
       {!hideLayout && <Footer />} {/* Footer bhi wahi logic follow kare */}
     </>
