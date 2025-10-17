@@ -10,7 +10,7 @@ export default function Header() {
 
   const links = [
     { name: '🏠 गृह', path: '/' },
-    { name: '🌸 लीला (Divine Plays)', path: '/leela' },
+    { name: '🌸 लीला (Divine Plays)', path: '/jeevankal' },
     { name: '🎶 भजन (Bhajans)', path: '/bhajan' },
     { name: '🌺 दर्शन (Darshan)', path: '/darshan' },
     { name: '💖 रासलीला (Divine Love)', path: '/raslila' },
